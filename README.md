@@ -10,13 +10,13 @@ We meet Thursdays at 7 PM at [Substantial](https://www.google.com/maps/place/Sub
 ## Study Schedule
 week     | chapters        | pages | comments
 ---------|-----------------|-------|---------
-08/04/16 | Chapter 1 & 2   | 58    |
-08/11/16 | Chapter 3 & 4   | 54    |
-08/18/16 | Chapter 5 & 6   | 45    |
-08/25/16 | Chapter 7 & 8   | 38    |
-09/01/16 | Chapter 9 & 10  | 39    |
-09/08/16 | Chapter 11 & 12 | 53    |
-09/15/16 | Chapter 13      | 20    |
+08/11/16 | Chapter 1 & 2   | 58    |
+08/18/16 | Chapter 3 & 4   | 54    |
+08/25/16 | Chapter 5 & 6   | 45    |
+09/01/16 | Chapter 7 & 8   | 38    |
+09/08/16 | Chapter 9 & 10  | 39    |
+09/15/16 | Chapter 11 & 12 | 53    |
+09/22/16 | Chapter 13      | 20    |
 
 ## What to do with this repository
 

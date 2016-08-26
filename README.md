@@ -17,7 +17,7 @@ week     | chapters        | pages | comments
 09/08/16 | Chapter 6       | 16    | Exercises on pages 171 and 180
 09/15/16 | Chapter 7       | 19    | Meet at [Espresso Vivace](https://www.google.com/maps/place/Espresso+Vivace+Roasteria/@47.6238267,-122.322875,17z/data=!3m1!4b1!4m5!3m4!1s0x5490152ded7b27e9:0x25ea205bb393c770!8m2!3d47.6238267!4d-122.3206863) - Exercise on page 197
 09/22/16 | Chapter 8       | 20    |
-09/29/16 | Chapter 9       | 24    | Excercise on page 241
+09/29/16 | Chapter 9       | 24    | Exercise on page 241
 10/06/16 | Chapter 10      | 15    | Exercises on page 248 and 260
 10/13/16 | Chapter 11      | 24    |
 10/20/16 | Chapter 12      | 30    |

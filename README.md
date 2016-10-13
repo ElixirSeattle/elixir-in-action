@@ -19,7 +19,7 @@ week     | chapters        | pages | comments
 09/22/16 | Chapter 8       | 20    |
 09/29/16 | Chapter 9       | 24    | Exercise on page 241
 10/06/16 | Chapter 10      | 15    | Exercises on page 248 and 260
-10/13/16 | Chapter 11      | 24    |
+10/13/16 | Chapter 11      | 24    | Not meeting
 10/20/16 | Chapter 12      | 30    |
 10/27/16 | Chapter 13      | 21    |
 
